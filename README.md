@@ -4,7 +4,7 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/therealsputnik">
+  <a href="https://github.com/TheSputnikSpacecraft">
     <img src="https://img.shields.io/badge/GitHub-therealsputnik-000000?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
   <a href="https://www.linkedin.com/in/sidharth-rajeshprabu/">
@@ -98,7 +98,7 @@ Developed tactile training device integrated with virtual soldering simulation f
 ## > github stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=therealsputnik&show_icons=true&theme=radical&hide_border=true"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=TheSputnikSpacecraft&show_icons=true&theme=radical&hide_border=true"/>
 </p>
 
 ---
@@ -108,3 +108,6 @@ Developed tactile training device integrated with virtual soldering simulation f
 ```
 “I can do all things through Christ who strengthens me.”  
 ```
+<p align="center">
+  ✝
+</p>
