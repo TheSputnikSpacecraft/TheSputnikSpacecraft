@@ -18,7 +18,7 @@
 ## > whoami
 
 Computer Science @ NUS  
-Teaching Assistant for CS1010 and CG2111A
+Teaching Assistant for CS1010 and CG2111A '\n'
 I build systems that touch hardware and humans.
 
 Interested in:
