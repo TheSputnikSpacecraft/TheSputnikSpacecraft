@@ -1,11 +1,11 @@
-<h1 align="center">Sidharth Rajeshprabu</h1>
+<h1 align="center">Sidharth (Sid) Rajeshprabu</h1>
 <p align="center">
   <code>systems engineering • spatial computing • embedded systems </code>
 </p>
 
 <p align="center">
   <a href="https://github.com/TheSputnikSpacecraft">
-    <img src="https://img.shields.io/badge/GitHub-therealsputnik-000000?style=for-the-badge&logo=github&logoColor=white"/>
+    <img src="https://img.shields.io/badge/GitHub-TheSputnikSpacecraft-000000?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
   <a href="https://www.linkedin.com/in/sidharth-rajeshprabu/">
     <img src="https://img.shields.io/badge/LinkedIn-Sidharth%20Rajeshprabu-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
