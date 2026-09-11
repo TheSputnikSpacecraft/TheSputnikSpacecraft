@@ -98,7 +98,7 @@ Developed tactile training device integrated with virtual soldering simulation f
 ## > github stats
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=TheSputnikSpacecraft&theme=radical&hide_border=true" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com?user=TheSputnikSpacecraft&theme=radical&hide_border=true&v=1" alt="GitHub Streak" />
 </p>
 
 ---
